@@ -10,6 +10,8 @@ Real-time traffic incident data.
 Inclusive of 47 columns: Bool (13), Object (20), float64 (13), Int64 (1).
 
 **PHASE1**
+
+
 **Data Cleaning :**
 Fields removal, mode imputation.
 Mean imputation for data preservation.
